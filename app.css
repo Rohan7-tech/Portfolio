@@ -5,18 +5,9 @@ img{
     width:25%;
     border-radius:50%;
 }
-#id1{
-    display: block;
-    margin-left: 10%;
-    margin-right: auto;
-    margin-top: 5%;
-  
-}
-h2{
-    margin-left:12%;
-}
-#id3{
-    font-size: 125%;
+.center {
+  margin: auto;
+  text-align: center;
 }
 .fa {
     padding: 20px;
